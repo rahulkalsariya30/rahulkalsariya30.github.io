@@ -1,0 +1,15 @@
+baseURL = "https://rahulkalsariya30.github.io/"
+languageCode = "en-us"
+title = "Rahul Kalsariya"
+theme = "PaperMod"
+
+[params]
+  author = "Rahul Kalsariya"
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 10
