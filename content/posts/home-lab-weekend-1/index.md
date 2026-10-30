@@ -1,5 +1,5 @@
 ---
-title: "My Old Gaming Laptop Is Now a Home Lab Server. Here's What Broke Along the Way"
+title: "Turning an Old Gaming Laptop into a Home Lab"
 date: 2026-10-29
 draft: false
 tags: ["homelab", "proxmox", "linux", "backups", "self-hosting"]
